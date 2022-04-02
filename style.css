@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(99, 221, 252);
+}
+
+.headrow{
+    text-align: center;
+}
+
+#submit{
+    background-color: rgb(6, 245, 6);
+}
+#cancel{
+    background-color: rgb(248, 28, 3);
+}
